@@ -74,12 +74,13 @@ if (totalShoppingCart > 50) {
   Modifica la risposta precedente includendo questa nuova promozione nell'algoritmo, determinando come prima se le spedizioni sono gratuite oppure no e e calcolando il totale.
 */
 
-/* let totalShoppingCart = 20
+ /*let totalShoppingCart = 40
 
 if (totalShoppingCart > 50) {
   console.log ("Al cliente sarà addebitato solo il saldo totale del carrello meno lo sconto del Black Friday:", (totalShoppingCart - ((totalShoppingCart / 100) * 20)))
 } else if (totalShoppingCart < 50) {console.log("Al cliente sarà addebitato il saldo totale del carrello meno lo sconto del Black Friday e più 10 euro di spedizione", (totalShoppingCart - ((totalShoppingCart / 100) * 20) + 10))}
- */
+ 
+
 
 /* ESERCIZIO 7
   Crea tre variabili, e assegna un valore numerico a ciascuna di esse.
@@ -202,16 +203,21 @@ delete me.skills[2]
 */
 
 
-/* let array = []
+ /*let array = []
 array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] 
 
+console.log(array) 
+*/
+
+/*let array = []
+array.push(1, 2, 3, 4, 5, 6, 7, 8, 9)
 console.log(array) */
 
 /* ESERCIZIO 15
   Scrivi del codice per sostituire l'ultimo elemento dell'array, ovvero il valore 10, con il valore 100.
 */
 
-/* let array = []
+ /*let array = []
 
 array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10] 
 
